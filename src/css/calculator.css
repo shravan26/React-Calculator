@@ -1,0 +1,16 @@
+input.result {
+    height: 100px;
+    width: 100%;
+    font-size: 32px;
+    border: none;
+    text-align: right;
+    position: relative;
+    max-width: 100vw;
+    margin-right: 50px;
+    float : right;
+}
+.floaty-last{
+    position: relative;
+    z-index: 99;
+    color: #aaa;
+}
